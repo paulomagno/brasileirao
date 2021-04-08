@@ -1,0 +1,22 @@
+body {
+    margin: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+}
+.campeao{
+    background-color: #1dd1a1;
+}
+
+.libertadores{
+    background-color: #48dbfb;
+}
+
+.sul-americana{
+    background-color: #c8d6e5;
+}
+
+.rebaixado{
+    background-color: #fc5c65;
+}
+
+
